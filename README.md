@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Jaiveer 👋
 
-<!--
-**jaiveerjat19/jaiveerjat19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE Student | C++ | DSA | Problem Solving
 
-Here are some ideas to get you started:
+I'm a Computer Science student based in Bengaluru, currently focused on strengthening my programming fundamentals, Data Structures & Algorithms, and building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+
+- C++
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Problem Solving
+- Git & GitHub
+
+## 🛠️ Tech Stack
+
+- C++
+- C
+- Git
+- GitHub
+- SQL
+
+## 📌 Projects
+
+- Voting Management System
+- C++ DSA Practice
+- More projects coming soon...
+
+## 🎯 Goals
+
+- Build strong DSA fundamentals
+- Develop real-world projects
+- Contribute to open-source
+- Prepare for software engineering internships
+
+## 📫 Connect With Me
+
+- LinkedIn: [Jaiveer Jat](https://www.linkedin.com/in/jaiveerjat.19/)
